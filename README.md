@@ -1,2 +1,2 @@
 # css-reset
-C
+Resetting CSS styles
